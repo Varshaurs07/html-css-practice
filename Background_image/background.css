@@ -1,0 +1,23 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-image: url("images/polar_photo.jpg");
+    background-size: cover;
+}
+#box2{
+    background-image: url("images/dogs.jpg");
+    background-size: cover;
+}
+#box3{
+    background-image: url("images/flower.jpg");
+    background-size: cover;
+}
+#box4{
+    background-image: url("images/cloud.jpg");
+    background-size: cover;
+}
