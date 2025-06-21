@@ -13,7 +13,7 @@ A collection of beginner to intermediate level projects created using only HTML 
 > Below are the outputs of various HTML & CSS practice tasks stored in the `assets/` folder.
 
 ### 🖼️ Background Demo
-![Background](assets/blackground.png)
+![Background](assets/background.png)
 
 ### 🧱 Flexbox Layout
 ![Flexbox](assets/Flexbox.png)
