@@ -19,30 +19,30 @@ A collection of beginner to intermediate level projects created using only HTML 
 ![Flexbox](assets/Flexbox.png)
 
 ### 🧩 Header Section
-![Header](assets/header.jpg)
+![Header](assets/header.png)
 
 ### 📜 Footer Section
-![Footer](assets/footer.jpg)
+![Footer](assets/footer.png)
 
 ### 📝 Form Design
-![Form](assets/forms.jpg)
+![Form](assets/forms.png)
 
 ### 👋 Introduction Page
-![Intro](assets/intro.jpg)
+![Intro](assets/intro.png)
 
 ### 🎞️ Keyframe Animation
-![Keyframe](assets/keyframe.jpg)
+![Keyframe](assets/keyframe.png)
 
 ### 🔗 Navigation Bar
-![Navbar](assets/navbar.jpg)
+![Navbar](assets/navbar.png)
 
 ### 🎯 Positioning Example
-![Position](assets/position.jpg)
+![Position](assets/position.png)
 
 ### 📅 Timetable Layout
-![Timetable](assets/timtable.jpg)
+![Timetable](assets/timtable.png)
 
 ### 🚦 Traffic Signal Using CSS
-![Traffic](assets/traffic.jpg)
+![Traffic](assets/traffic.png)
 
 
